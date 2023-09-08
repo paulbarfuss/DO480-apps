@@ -3,7 +3,7 @@ kind: Kustomization
 bases:
   - ../../base
 
-nameSuffix: -apac
+nameSuffix: -emea
 
 images:
   - name: mysql
